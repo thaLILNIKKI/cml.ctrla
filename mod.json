@@ -1,0 +1,12 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081"
+	},
+	"version": "v1.0.0",
+	"id": "cml.ctrla",
+	"name": "Ctrl + A",
+	"developer": "Camellia",
+	"description": "Adds Ctrl+A, Ctrl+C, Ctrl+V, and Ctrl+X support to Geometry Dash text inputs.",
+	"tags": ["utility", "enhancement"]
+}
